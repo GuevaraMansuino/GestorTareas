@@ -47,8 +47,7 @@ com.utn.tareas
 ### 1️⃣ Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/sistema-tareas-springboot.git
-cd sistema-tareas-springboot
+git clone https://github.com/GuevaraMansuino/GestorTareas
 ```
 
 ### 2️⃣ Compilar el Proyecto
